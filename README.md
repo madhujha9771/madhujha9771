@@ -4,7 +4,7 @@
 
 I’m a DevOps / Cloud Engineer focused on building, automating, and deploying cloud-native applications using AWS, containers, Kubernetes, Infrastructure as Code, and CI/CD.
 
-Currently working as a **System Engineer at Tata Consultancy Services (TCS)**, with hands-on experience across Linux, Docker, Jenkins, GitHub Actions, AWS, Kubernetes, Terraform, and DevSecOps practices.
+
 
 ---
 
